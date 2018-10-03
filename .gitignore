@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -24,7 +23,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-=======
-*.iml
-.idea
->>>>>>> e1a6ced223e71b9e33d98956d4b751536860635a
